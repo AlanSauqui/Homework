@@ -1,0 +1,9 @@
+¡Hola maestra! Solamente aclarar unas cosas :D
+
+-Maximo nivel existente es el nivel 10. Nivel 0 = 1 letra; nivel 9 = 10 letras y nivel 10 = 10 letras+velocidad.
+
+-El juego se puede pausar presionando la tecla "shift".
+
+-Utilicé la biblioteca "minim" para todos los efectos.
+
+¡Listo! :D
